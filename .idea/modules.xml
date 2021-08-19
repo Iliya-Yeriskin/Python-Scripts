@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Bash-Scripts/.idea/Bash-Scripts.iml" filepath="$PROJECT_DIR$/../Bash-Scripts/.idea/Bash-Scripts.iml" />
+      <module fileurl="file://G:/Iliya/DevOps/LinkedIn Courses/Ex_Files_Learning_Python_Upd/.idea/Ex_Files_Learning_Python_Upd.iml" filepath="G:/Iliya/DevOps/LinkedIn Courses/Ex_Files_Learning_Python_Upd/.idea/Ex_Files_Learning_Python_Upd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Learning-Path/.idea/Learning-Path.iml" filepath="$PROJECT_DIR$/../Learning-Path/.idea/Learning-Path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python-Scripts.iml" filepath="$PROJECT_DIR$/.idea/Python-Scripts.iml" />
+    </modules>
+  </component>
+</project>
